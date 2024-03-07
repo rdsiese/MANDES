@@ -2,4 +2,4 @@ The above notebooks include the Python code for session 14 of MANDES. The code i
 
 Jarrow, R. and Chatterjea, A. $\textit{An Introduction to Derivative Securities, Financial Markets, and Risk Management}$, 2nd ed., World Scientific, 2019.
 
-Al\{o'}s, E. and Merino, R. $\textit{Introduction to Financial Derivatives with Python}$, Chapman & Hall, 2023. 
+Al$\{o'}$s, E. and Merino, R. $\textit{Introduction to Financial Derivatives with Python}$, Chapman & Hall, 2023. 
